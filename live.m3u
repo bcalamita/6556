@@ -1,0 +1,883 @@
+#EXTM3U
+#EXTINF:-1,--------6556 IPTV Daily List------------
+http://whatever.tx
+#EXTINF:-1,BBC One London
+http://mainxc.dyndns.org:8080/live/tonynew/tonynew/1.ts
+#EXTINF:-1,BBC Two
+http://mainxc.dyndns.org:8080/live/tonynew/tonynew/2.ts
+#EXTINF:-1,ITV 1 London
+http://mainxc.dyndns.org:8080/live/tonynew/tonynew/8.ts
+#EXTINF:-1,Channel 4
+http://mainxc.dyndns.org:8080/live/tonynew/tonynew/9.ts
+#EXTINF:-1,Channel 5
+http://mainxc.dyndns.org:8080/live/tonynew/tonynew/10.ts
+#EXTINF:-1,ITV 2
+http://mainxc.dyndns.org:8080/live/tonynew/tonynew/13.ts
+#EXTINF:-1,RTE 1
+http://mainxc.dyndns.org:8080/live/tonynew/tonynew/11.ts
+#EXTINF:-1,RTE 2
+http://mainxc.dyndns.org:8080/live/tonynew/tonynew/12.ts
+#EXTINF:-1,TV 3
+http://mainxc.dyndns.org:8080/live/tonynew/tonynew/16.ts
+#EXTINF:-1,TG4
+http://mainxc.dyndns.org:8080/live/tonynew/tonynew/22.ts
+#EXTINF:-1,UTV
+http://mainxc.dyndns.org:8080/live/tonynew/tonynew/23.ts
+#EXTINF:-1,STV
+http://mainxc.dyndns.org:8080/live/tonynew/tonynew/24.ts
+#EXTINF:-1,BBC 1 Northern Ireland
+http://mainxc.dyndns.org:8080/live/tonynew/tonynew/14.ts
+#EXTINF:-1,BBC Two Northern Ireland
+http://mainxc.dyndns.org:8080/live/tonynew/tonynew/15.ts
+#EXTINF:-1,BBC One HD
+http://mainxc.dyndns.org:8080/live/tonynew/tonynew/17.ts
+#EXTINF:-1,BBC Two HD
+http://mainxc.dyndns.org:8080/live/tonynew/tonynew/18.ts
+#EXTINF:-1,MUTV HD
+http://mainxc.dyndns.org:8080/live/tonynew/tonynew/332.ts
+#EXTINF:-1,3e
+http://mainxc.dyndns.org:8080/live/tonynew/tonynew/331.ts
+#EXTINF:-1,RTE News
+http://mainxc.dyndns.org:8080/live/tonynew/tonynew/329.ts
+#EXTINF:-1,ITV 1 HD
+http://mainxc.dyndns.org:8080/live/tonynew/tonynew/19.ts
+#EXTINF:-1,Channel 4 HD
+http://mainxc.dyndns.org:8080/live/tonynew/tonynew/20.ts
+#EXTINF:-1,BBC 4 HD
+http://mainxc.dyndns.org:8080/live/tonynew/tonynew/21.ts
+#EXTINF:-1,BBC Radio 1
+http://mainxc.dyndns.org:8080/live/tonynew/tonynew/4.ts
+#EXTINF:-1,More 4
+http://mainxc.dyndns.org:8080/live/tonynew/tonynew/33.ts
+#EXTINF:-1,ITV Encore
+http://mainxc.dyndns.org:8080/live/tonynew/tonynew/31.ts
+#EXTINF:-1,ITV Be
+http://mainxc.dyndns.org:8080/live/tonynew/tonynew/30.ts
+#EXTINF:-1,E!
+http://mainxc.dyndns.org:8080/live/tonynew/tonynew/240.ts
+#EXTINF:-1,ITV 4
+http://mainxc.dyndns.org:8080/live/tonynew/tonynew/29.ts
+#EXTINF:-1,ITV 3
+http://mainxc.dyndns.org:8080/live/tonynew/tonynew/28.ts
+#EXTINF:-1,BBC 4
+http://mainxc.dyndns.org:8080/live/tonynew/tonynew/148.ts
+#EXTINF:-1,PPV
+http://mainxc.dyndns.org:8080/live/tonynew/tonynew/388.ts
+#EXTINF:-1,Film 4
+http://mainxc.dyndns.org:8080/live/tonynew/tonynew/35.ts
+#EXTINF:-1,E4
+http://mainxc.dyndns.org:8080/live/tonynew/tonynew/32.ts
+#EXTINF:-1,4 Seven
+http://mainxc.dyndns.org:8080/live/tonynew/tonynew/34.ts
+#EXTINF:-1,Yesterday
+http://mainxc.dyndns.org:8080/live/tonynew/tonynew/43.ts
+#EXTINF:-1,London Live
+http://mainxc.dyndns.org:8080/live/tonynew/tonynew/149.ts
+#EXTINF:-1,Really
+http://mainxc.dyndns.org:8080/live/tonynew/tonynew/44.ts
+#EXTINF:-1,Gold
+http://mainxc.dyndns.org:8080/live/tonynew/tonynew/42.ts
+#EXTINF:-1,Drama
+http://mainxc.dyndns.org:8080/live/tonynew/tonynew/41.ts
+#EXTINF:-1,Dave
+http://mainxc.dyndns.org:8080/live/tonynew/tonynew/40.ts
+#EXTINF:-1,Alibi
+http://mainxc.dyndns.org:8080/live/tonynew/tonynew/39.ts
+#EXTINF:-1,5 USA
+http://mainxc.dyndns.org:8080/live/tonynew/tonynew/38.ts
+#EXTINF:-1,5 Star
+http://mainxc.dyndns.org:8080/live/tonynew/tonynew/37.ts
+#EXTINF:-1,Tru Tv
+http://mainxc.dyndns.org:8080/live/tonynew/tonynew/150.ts
+#EXTINF:-1,Watch
+http://mainxc.dyndns.org:8080/live/tonynew/tonynew/46.ts
+#EXTINF:-1,Pick TV
+http://mainxc.dyndns.org:8080/live/tonynew/tonynew/45.ts
+#EXTINF:-1,Challenge
+http://mainxc.dyndns.org:8080/live/tonynew/tonynew/47.ts
+#EXTINF:-1,Spike
+http://mainxc.dyndns.org:8080/live/tonynew/tonynew/48.ts
+#EXTINF:-1,Sky 1
+http://mainxc.dyndns.org:8080/live/tonynew/tonynew/49.ts
+#EXTINF:-1,Sky 2
+http://mainxc.dyndns.org:8080/live/tonynew/tonynew/50.ts
+#EXTINF:-1,Living
+http://mainxc.dyndns.org:8080/live/tonynew/tonynew/53.ts
+#EXTINF:-1,Fox
+http://mainxc.dyndns.org:8080/live/tonynew/tonynew/54.ts
+#EXTINF:-1,Atlantic
+http://mainxc.dyndns.org:8080/live/tonynew/tonynew/52.ts
+#EXTINF:-1,AMC on BT
+http://mainxc.dyndns.org:8080/live/tonynew/tonynew/51.ts
+#EXTINF:-1,Universal
+http://mainxc.dyndns.org:8080/live/tonynew/tonynew/56.ts
+#EXTINF:-1,Syfy
+http://mainxc.dyndns.org:8080/live/tonynew/tonynew/57.ts
+#EXTINF:-1,Comedy Central
+http://mainxc.dyndns.org:8080/live/tonynew/tonynew/55.ts
+#EXTINF:-1,Comedy Central Extra
+http://mainxc.dyndns.org:8080/live/tonynew/tonynew/59.ts
+#EXTINF:-1,Lifetime
+http://mainxc.dyndns.org:8080/live/tonynew/tonynew/58.ts
+#EXTINF:-1,Food Network
+http://mainxc.dyndns.org:8080/live/tonynew/tonynew/60.ts
+#EXTINF:-1,Good Food
+http://mainxc.dyndns.org:8080/live/tonynew/tonynew/61.ts
+#EXTINF:-1,CBS Reality
+http://mainxc.dyndns.org:8080/live/tonynew/tonynew/62.ts
+#EXTINF:-1,CBS Drama
+http://mainxc.dyndns.org:8080/live/tonynew/tonynew/63.ts
+#EXTINF:-1,CBS Action
+http://mainxc.dyndns.org:8080/live/tonynew/tonynew/64.ts
+#EXTINF:-1,TLC
+http://mainxc.dyndns.org:8080/live/tonynew/tonynew/65.ts
+#EXTINF:-1,Sky Arts
+http://mainxc.dyndns.org:8080/live/tonynew/tonynew/67.ts
+#EXTINF:-1,Quest
+http://mainxc.dyndns.org:8080/live/tonynew/tonynew/66.ts
+#EXTINF:-1,Horse & Country
+http://mainxc.dyndns.org:8080/live/tonynew/tonynew/151.ts
+#EXTINF:-1,Travel Channel
+http://mainxc.dyndns.org:8080/live/tonynew/tonynew/147.ts
+#EXTINF:-1,Sky Sports 1
+http://mainxc.dyndns.org:8080/live/tonynew/tonynew/68.ts
+#EXTINF:-1,Sky Sports 1 HD
+http://mainxc.dyndns.org:8080/live/tonynew/tonynew/69.ts
+#EXTINF:-1,Sky Sports 2
+http://mainxc.dyndns.org:8080/live/tonynew/tonynew/70.ts
+#EXTINF:-1,Sky Sports 2 HD
+http://mainxc.dyndns.org:8080/live/tonynew/tonynew/71.ts
+#EXTINF:-1,Sky Sports 3
+http://mainxc.dyndns.org:8080/live/tonynew/tonynew/72.ts
+#EXTINF:-1,Sky Sports 3 HD
+http://mainxc.dyndns.org:8080/live/tonynew/tonynew/73.ts
+#EXTINF:-1,Sky Sports 4
+http://mainxc.dyndns.org:8080/live/tonynew/tonynew/74.ts
+#EXTINF:-1,Sky Sports 4 HD
+http://mainxc.dyndns.org:8080/live/tonynew/tonynew/75.ts
+#EXTINF:-1,Sky Sports 5
+http://mainxc.dyndns.org:8080/live/tonynew/tonynew/125.ts
+#EXTINF:-1,Sky Sports F1
+http://mainxc.dyndns.org:8080/live/tonynew/tonynew/126.ts
+#EXTINF:-1,Sky Sports News HQ
+http://mainxc.dyndns.org:8080/live/tonynew/tonynew/88.ts
+#EXTINF:-1,Setanta Sports
+http://mainxc.dyndns.org:8080/live/tonynew/tonynew/92.ts
+#EXTINF:-1,Premier Sports
+http://mainxc.dyndns.org:8080/live/tonynew/tonynew/105.ts
+#EXTINF:-1,ESPN UK
+http://mainxc.dyndns.org:8080/live/tonynew/tonynew/91.ts
+#EXTINF:-1,BT Sport 1
+http://mainxc.dyndns.org:8080/live/tonynew/tonynew/89.ts
+#EXTINF:-1,BT Sport 2
+http://mainxc.dyndns.org:8080/live/tonynew/tonynew/90.ts
+#EXTINF:-1,BT Sports Europe
+http://mainxc.dyndns.org:8080/live/tonynew/tonynew/127.ts
+#EXTINF:-1,At The Races
+http://mainxc.dyndns.org:8080/live/tonynew/tonynew/106.ts
+#EXTINF:-1,Racing UK
+http://mainxc.dyndns.org:8080/live/tonynew/tonynew/107.ts
+#EXTINF:-1,Motors TV
+http://mainxc.dyndns.org:8080/live/tonynew/tonynew/113.ts
+#EXTINF:-1,Manchester United TV
+http://mainxc.dyndns.org:8080/live/tonynew/tonynew/110.ts
+#EXTINF:-1,Liverpool TV
+http://mainxc.dyndns.org:8080/live/tonynew/tonynew/112.ts
+#EXTINF:-1,Eurosport 1
+http://mainxc.dyndns.org:8080/live/tonynew/tonynew/114.ts
+#EXTINF:-1,Eurosport 2
+http://mainxc.dyndns.org:8080/live/tonynew/tonynew/115.ts
+#EXTINF:-1,Chelsea TV
+http://mainxc.dyndns.org:8080/live/tonynew/tonynew/111.ts
+#EXTINF:-1,BT Europe
+http://mainxc.dyndns.org:8080/live/tonynew/tonynew/109.ts
+#EXTINF:-1,Box Nation
+http://mainxc.dyndns.org:8080/live/tonynew/tonynew/108.ts
+#EXTINF:-1,MLBN
+http://mainxc.dyndns.org:8080/live/tonynew/tonynew/116.ts
+#EXTINF:-1,NHL Network
+http://mainxc.dyndns.org:8080/live/tonynew/tonynew/117.ts
+#EXTINF:-1,ESPN 1 USA
+http://mainxc.dyndns.org:8080/live/tonynew/tonynew/118.ts
+#EXTINF:-1,ESPN USA 2
+http://mainxc.dyndns.org:8080/live/tonynew/tonynew/153.ts
+#EXTINF:-1,Fox Sports
+http://mainxc.dyndns.org:8080/live/tonynew/tonynew/79.ts
+#EXTINF:-1,Fox Sports 2
+http://mainxc.dyndns.org:8080/live/tonynew/tonynew/119.ts
+#EXTINF:-1,Sportsnet World
+http://mainxc.dyndns.org:8080/live/tonynew/tonynew/102.ts
+#EXTINF:-1,Sportsnet Ontorio
+http://mainxc.dyndns.org:8080/live/tonynew/tonynew/103.ts
+#EXTINF:-1,Sportsnet One
+http://mainxc.dyndns.org:8080/live/tonynew/tonynew/104.ts
+#EXTINF:-1,TSN 1
+http://mainxc.dyndns.org:8080/live/tonynew/tonynew/154.ts
+#EXTINF:-1,TSN 2
+http://mainxc.dyndns.org:8080/live/tonynew/tonynew/155.ts
+#EXTINF:-1,TSN 3
+http://mainxc.dyndns.org:8080/live/tonynew/tonynew/156.ts
+#EXTINF:-1,TSN 4
+http://mainxc.dyndns.org:8080/live/tonynew/tonynew/157.ts
+#EXTINF:-1,TSN 5
+http://mainxc.dyndns.org:8080/live/tonynew/tonynew/158.ts
+#EXTINF:-1,BBC News
+http://mainxc.dyndns.org:8080/live/tonynew/tonynew/82.ts
+#EXTINF:-1,Sky News
+http://mainxc.dyndns.org:8080/live/tonynew/tonynew/83.ts
+#EXTINF:-1,CNN
+http://mainxc.dyndns.org:8080/live/tonynew/tonynew/175.ts
+#EXTINF:-1,Fox News
+http://mainxc.dyndns.org:8080/live/tonynew/tonynew/84.ts
+#EXTINF:-1,Euro News
+http://mainxc.dyndns.org:8080/live/tonynew/tonynew/85.ts
+#EXTINF:-1,Sky Cinema Premier
+http://mainxc.dyndns.org:8080/live/tonynew/tonynew/76.ts
+#EXTINF:-1,Sky Cinema Family
+http://mainxc.dyndns.org:8080/live/tonynew/tonynew/81.ts
+#EXTINF:-1,Sky Cinema Action & Adventure
+http://mainxc.dyndns.org:8080/live/tonynew/tonynew/77.ts
+#EXTINF:-1,Sky Cinema Drama & Rommance
+http://mainxc.dyndns.org:8080/live/tonynew/tonynew/78.ts
+#EXTINF:-1,Sky Cinema Crime & Thriller
+http://mainxc.dyndns.org:8080/live/tonynew/tonynew/131.ts
+#EXTINF:-1,Sky Cinema Comedy
+http://mainxc.dyndns.org:8080/live/tonynew/tonynew/80.ts
+#EXTINF:-1,Sky Cinema Syfy & Horror
+http://mainxc.dyndns.org:8080/live/tonynew/tonynew/130.ts
+#EXTINF:-1,Sky Cinema Showcase
+http://mainxc.dyndns.org:8080/live/tonynew/tonynew/128.ts
+#EXTINF:-1,Sky Cinema Select
+http://mainxc.dyndns.org:8080/live/tonynew/tonynew/87.ts
+#EXTINF:-1,Sky Cinema Modern Greats
+http://mainxc.dyndns.org:8080/live/tonynew/tonynew/129.ts
+#EXTINF:-1,Sky Cinema Disney
+http://mainxc.dyndns.org:8080/live/tonynew/tonynew/132.ts
+#EXTINF:-1,True Movies 1
+http://mainxc.dyndns.org:8080/live/tonynew/tonynew/133.ts
+#EXTINF:-1,True Movies 2
+http://mainxc.dyndns.org:8080/live/tonynew/tonynew/134.ts
+#EXTINF:-1,True Entertainment
+http://mainxc.dyndns.org:8080/live/tonynew/tonynew/135.ts
+#EXTINF:-1,True Drama
+http://mainxc.dyndns.org:8080/live/tonynew/tonynew/136.ts
+#EXTINF:-1,TCM
+http://mainxc.dyndns.org:8080/live/tonynew/tonynew/138.ts
+#EXTINF:-1,Talking Pictures
+http://mainxc.dyndns.org:8080/live/tonynew/tonynew/152.ts
+#EXTINF:-1,Movies 24
+http://mainxc.dyndns.org:8080/live/tonynew/tonynew/137.ts
+#EXTINF:-1,Eden
+http://mainxc.dyndns.org:8080/live/tonynew/tonynew/86.ts
+#EXTINF:-1,Animal Planet
+http://mainxc.dyndns.org:8080/live/tonynew/tonynew/95.ts
+#EXTINF:-1,National Geographic
+http://mainxc.dyndns.org:8080/live/tonynew/tonynew/96.ts
+#EXTINF:-1,National Geographic Wild
+http://mainxc.dyndns.org:8080/live/tonynew/tonynew/97.ts
+#EXTINF:-1,History Channel
+http://mainxc.dyndns.org:8080/live/tonynew/tonynew/93.ts
+#EXTINF:-1,H2
+http://mainxc.dyndns.org:8080/live/tonynew/tonynew/94.ts
+#EXTINF:-1,DMAX
+http://mainxc.dyndns.org:8080/live/tonynew/tonynew/139.ts
+#EXTINF:-1,Crime & Investigation
+http://mainxc.dyndns.org:8080/live/tonynew/tonynew/146.ts
+#EXTINF:-1,Cartoon Network
+http://mainxc.dyndns.org:8080/live/tonynew/tonynew/98.ts
+#EXTINF:-1,Boomerang
+http://mainxc.dyndns.org:8080/live/tonynew/tonynew/99.ts
+#EXTINF:-1,Nick Toons
+http://mainxc.dyndns.org:8080/live/tonynew/tonynew/100.ts
+#EXTINF:-1,USA-USA Network
+http://mainxc.dyndns.org:8080/live/tonynew/tonynew/101.ts
+#EXTINF:-1,USA - Starz
+http://mainxc.dyndns.org:8080/live/tonynew/tonynew/177.ts
+#EXTINF:-1,USA - Showtime
+http://mainxc.dyndns.org:8080/live/tonynew/tonynew/186.ts
+#EXTINF:-1,ABC News
+http://mainxc.dyndns.org:8080/live/tonynew/tonynew/178.ts
+#EXTINF:-1,USA - Lifetime USA
+http://mainxc.dyndns.org:8080/live/tonynew/tonynew/185.ts
+#EXTINF:-1,USA - History Channel USA
+http://mainxc.dyndns.org:8080/live/tonynew/tonynew/176.ts
+#EXTINF:-1,USA - HBO 2
+http://mainxc.dyndns.org:8080/live/tonynew/tonynew/181.ts
+#EXTINF:-1,USA - Hallmark HD
+http://mainxc.dyndns.org:8080/live/tonynew/tonynew/183.ts
+#EXTINF:-1,USA - Encore USA
+http://mainxc.dyndns.org:8080/live/tonynew/tonynew/180.ts
+#EXTINF:-1,USA - Comedy Central USA
+http://mainxc.dyndns.org:8080/live/tonynew/tonynew/179.ts
+#EXTINF:-1,USA - Cinemax
+http://mainxc.dyndns.org:8080/live/tonynew/tonynew/182.ts
+#EXTINF:-1,USA - HBO Zone
+http://mainxc.dyndns.org:8080/live/tonynew/tonynew/184.ts
+#EXTINF:-1,Astro Super Sports 1
+http://mainxc.dyndns.org:8080/live/tonynew/tonynew/169.ts
+#EXTINF:-1,24 H
+http://mainxc.dyndns.org:8080/live/tonynew/tonynew/123.ts
+#EXTINF:-1,Horror Channel
+http://mainxc.dyndns.org:8080/live/tonynew/tonynew/269.ts
+#EXTINF:-1,Real Lives
+http://mainxc.dyndns.org:8080/live/tonynew/tonynew/268.ts
+#EXTINF:-1,Astro 4
+http://mainxc.dyndns.org:8080/live/tonynew/tonynew/245.ts
+#EXTINF:-1,Astro 3
+http://mainxc.dyndns.org:8080/live/tonynew/tonynew/244.ts
+#EXTINF:-1,Astro 2
+http://mainxc.dyndns.org:8080/live/tonynew/tonynew/243.ts
+#EXTINF:-1,VH1
+http://mainxc.dyndns.org:8080/live/tonynew/tonynew/264.ts
+#EXTINF:-1,S4C
+http://mainxc.dyndns.org:8080/live/tonynew/tonynew/252.ts
+#EXTINF:-1,Nickelodeon
+http://mainxc.dyndns.org:8080/live/tonynew/tonynew/257.ts
+#EXTINF:-1,Nick Junior
+http://mainxc.dyndns.org:8080/live/tonynew/tonynew/258.ts
+#EXTINF:-1,Liverpool
+http://mainxc.dyndns.org:8080/live/tonynew/tonynew/262.ts
+#EXTINF:-1,ITV 1 Wales
+http://mainxc.dyndns.org:8080/live/tonynew/tonynew/254.ts
+#EXTINF:-1,Disney XD
+http://mainxc.dyndns.org:8080/live/tonynew/tonynew/260.ts
+#EXTINF:-1,Disney Junior
+http://mainxc.dyndns.org:8080/live/tonynew/tonynew/261.ts
+#EXTINF:-1,Disney Channel
+http://mainxc.dyndns.org:8080/live/tonynew/tonynew/259.ts
+#EXTINF:-1,BT Extra
+http://mainxc.dyndns.org:8080/live/tonynew/tonynew/263.ts
+#EXTINF:-1,BBC Two Wales
+http://mainxc.dyndns.org:8080/live/tonynew/tonynew/250.ts
+#EXTINF:-1,BBC Red Button
+http://mainxc.dyndns.org:8080/live/tonynew/tonynew/251.ts
+#EXTINF:-1,BBC One Wales
+http://mainxc.dyndns.org:8080/live/tonynew/tonynew/249.ts
+#EXTINF:-1,BBC One Scotland
+http://mainxc.dyndns.org:8080/live/tonynew/tonynew/248.ts
+#EXTINF:-1,BBC Alba
+http://mainxc.dyndns.org:8080/live/tonynew/tonynew/253.ts
+#EXTINF:-1,Vevo 1
+http://mainxc.dyndns.org:8080/live/tonynew/tonynew/309.ts
+#EXTINF:-1,Flava
+http://mainxc.dyndns.org:8080/live/tonynew/tonynew/302.ts
+#EXTINF:-1,Scuzz
+http://mainxc.dyndns.org:8080/live/tonynew/tonynew/301.ts
+#EXTINF:-1,Russia Today
+http://mainxc.dyndns.org:8080/live/tonynew/tonynew/306.ts
+#EXTINF:-1,Bloomberg
+http://mainxc.dyndns.org:8080/live/tonynew/tonynew/305.ts
+#EXTINF:-1,Al Jazera News
+http://mainxc.dyndns.org:8080/live/tonynew/tonynew/304.ts
+#EXTINF:-1,The Vault
+http://mainxc.dyndns.org:8080/live/tonynew/tonynew/303.ts
+#EXTINF:-1,Movies 4 Men
+http://mainxc.dyndns.org:8080/live/tonynew/tonynew/307.ts
+#EXTINF:-1,True Crime
+http://mainxc.dyndns.org:8080/live/tonynew/tonynew/482.ts
+#EXTINF:-1,ITV 1 Granada
+http://mainxc.dyndns.org:8080/live/tonynew/tonynew/520.ts
+#EXTINF:-1,ITV E Anglia
+http://mainxc.dyndns.org:8080/live/tonynew/tonynew/521.ts
+#EXTINF:-1,BBC 1 West
+http://mainxc.dyndns.org:8080/live/tonynew/tonynew/523.ts
+#EXTINF:-1,BBC 1 West Midlands
+http://mainxc.dyndns.org:8080/live/tonynew/tonynew/527.ts
+#EXTINF:-1,BBC 1 Yorkshire & Lincolnshire
+http://mainxc.dyndns.org:8080/live/tonynew/tonynew/525.ts
+#EXTINF:-1,Sky Movies Action HD
+http://mainxc.dyndns.org:8080/live/tonynew/tonynew/464.ts
+#EXTINF:-1,USA - Showtime 2
+http://mainxc.dyndns.org:8080/live/tonynew/tonynew/215.ts
+#EXTINF:-1,USA - HBO
+http://mainxc.dyndns.org:8080/live/tonynew/tonynew/214.ts
+#EXTINF:-1,USA - AMC HD
+http://mainxc.dyndns.org:8080/live/tonynew/tonynew/213.ts
+#EXTINF:-1,USA - ABC HD
+http://mainxc.dyndns.org:8080/live/tonynew/tonynew/212.ts
+#EXTINF:-1,USA - FX HD
+http://mainxc.dyndns.org:8080/live/tonynew/tonynew/208.ts
+#EXTINF:-1,Sky Sports F1 HD
+http://mainxc.dyndns.org:8080/live/tonynew/tonynew/292.ts
+#EXTINF:-1,Premier Sports HD
+http://mainxc.dyndns.org:8080/live/tonynew/tonynew/291.ts
+#EXTINF:-1,NBC Live extra 5
+http://mainxc.dyndns.org:8080/live/tonynew/tonynew/283.ts
+#EXTINF:-1,Sky News HD
+http://mainxc.dyndns.org:8080/live/tonynew/tonynew/288.ts
+#EXTINF:-1,Sky Sports News HD
+http://mainxc.dyndns.org:8080/live/tonynew/tonynew/289.ts
+#EXTINF:-1,Eire Sports 2
+http://mainxc.dyndns.org:8080/live/tonynew/tonynew/287.ts
+#EXTINF:-1,Eire Sports 1
+http://mainxc.dyndns.org:8080/live/tonynew/tonynew/286.ts
+#EXTINF:-1,Racing Uk HD
+http://mainxc.dyndns.org:8080/live/tonynew/tonynew/282.ts
+#EXTINF:-1,NBC Live extra 4
+http://mainxc.dyndns.org:8080/live/tonynew/tonynew/280.ts
+#EXTINF:-1,NBC Golf
+http://mainxc.dyndns.org:8080/live/tonynew/tonynew/281.ts
+#EXTINF:-1,NBC Sports
+http://mainxc.dyndns.org:8080/live/tonynew/tonynew/275.ts
+#EXTINF:-1,TNT USA
+http://mainxc.dyndns.org:8080/live/tonynew/tonynew/279.ts
+#EXTINF:-1,Extra Time 3
+http://mainxc.dyndns.org:8080/live/tonynew/tonynew/278.ts
+#EXTINF:-1,Extra Time 2
+http://mainxc.dyndns.org:8080/live/tonynew/tonynew/277.ts
+#EXTINF:-1,Extra Time 1
+http://mainxc.dyndns.org:8080/live/tonynew/tonynew/276.ts
+#EXTINF:-1,Liga HD
+http://mainxc.dyndns.org:8080/live/tonynew/tonynew/235.ts
+#EXTINF:-1,Sky Sports 1 Italia
+http://mainxc.dyndns.org:8080/live/tonynew/tonynew/238.ts
+#EXTINF:-1,DE - Sky Cinema 24
+http://mainxc.dyndns.org:8080/live/tonynew/tonynew/206.ts
+#EXTINF:-1,DE - Sky Cinema 1
+http://mainxc.dyndns.org:8080/live/tonynew/tonynew/205.ts
+#EXTINF:-1,DE - Sky Bundesliga
+http://mainxc.dyndns.org:8080/live/tonynew/tonynew/204.ts
+#EXTINF:-1,Canal+ Futbol
+http://mainxc.dyndns.org:8080/live/tonynew/tonynew/216.ts
+#EXTINF:-1,C-More Sport
+http://mainxc.dyndns.org:8080/live/tonynew/tonynew/221.ts
+#EXTINF:-1,EPL 1
+http://mainxc.dyndns.org:8080/live/tonynew/tonynew/170.ts
+#EXTINF:-1,EPL2
+http://mainxc.dyndns.org:8080/live/tonynew/tonynew/171.ts
+#EXTINF:-1,EPL3
+http://mainxc.dyndns.org:8080/live/tonynew/tonynew/172.ts
+#EXTINF:-1,EPL 4
+http://mainxc.dyndns.org:8080/live/tonynew/tonynew/173.ts
+#EXTINF:-1,EPL 5
+http://mainxc.dyndns.org:8080/live/tonynew/tonynew/174.ts
+#EXTINF:-1,EPL 6
+http://mainxc.dyndns.org:8080/live/tonynew/tonynew/209.ts
+#EXTINF:-1,EPL 7
+http://mainxc.dyndns.org:8080/live/tonynew/tonynew/210.ts
+#EXTINF:-1,EPL 8
+http://mainxc.dyndns.org:8080/live/tonynew/tonynew/211.ts
+#EXTINF:-1,Kanal 4
+http://mainxc.dyndns.org:8080/live/tonynew/tonynew/222.ts
+#EXTINF:-1,DR 2
+http://mainxc.dyndns.org:8080/live/tonynew/tonynew/220.ts
+#EXTINF:-1,DR 1
+http://mainxc.dyndns.org:8080/live/tonynew/tonynew/219.ts
+#EXTINF:-1,NRK 1
+http://mainxc.dyndns.org:8080/live/tonynew/tonynew/218.ts
+#EXTINF:-1,TV Sport DK
+http://mainxc.dyndns.org:8080/live/tonynew/tonynew/198.ts
+#EXTINF:-1,TV 2 Zebra
+http://mainxc.dyndns.org:8080/live/tonynew/tonynew/199.ts
+#EXTINF:-1,TV 2 Nyhetskanalen
+http://mainxc.dyndns.org:8080/live/tonynew/tonynew/196.ts
+#EXTINF:-1,SVT 1
+http://mainxc.dyndns.org:8080/live/tonynew/tonynew/187.ts
+#EXTINF:-1,SVT 2
+http://mainxc.dyndns.org:8080/live/tonynew/tonynew/188.ts
+#EXTINF:-1,TV Norge
+http://mainxc.dyndns.org:8080/live/tonynew/tonynew/192.ts
+#EXTINF:-1,TV 2 Norge
+http://mainxc.dyndns.org:8080/live/tonynew/tonynew/195.ts
+#EXTINF:-1,TV 2 News
+http://mainxc.dyndns.org:8080/live/tonynew/tonynew/194.ts
+#EXTINF:-1,TV 2 Charlie
+http://mainxc.dyndns.org:8080/live/tonynew/tonynew/193.ts
+#EXTINF:-1,TV 8 Sverige
+http://mainxc.dyndns.org:8080/live/tonynew/tonynew/191.ts
+#EXTINF:-1,TV 4
+http://mainxc.dyndns.org:8080/live/tonynew/tonynew/189.ts
+#EXTINF:-1,TV 4 Guld
+http://mainxc.dyndns.org:8080/live/tonynew/tonynew/190.ts
+#EXTINF:-1,Sony TV DE
+http://mainxc.dyndns.org:8080/live/tonynew/tonynew/239.ts
+#EXTINF:-1,Universal Channel DE
+http://mainxc.dyndns.org:8080/live/tonynew/tonynew/236.ts
+#EXTINF:-1,DE -Sky Sports 1 HD
+http://mainxc.dyndns.org:8080/live/tonynew/tonynew/200.ts
+#EXTINF:-1,DE -Sky Sports 2 HD
+http://mainxc.dyndns.org:8080/live/tonynew/tonynew/201.ts
+#EXTINF:-1,DE -Sky Sports 3 HD
+http://mainxc.dyndns.org:8080/live/tonynew/tonynew/202.ts
+#EXTINF:-1,DE -Sky Sports 4 HD
+http://mainxc.dyndns.org:8080/live/tonynew/tonynew/203.ts
+#EXTINF:-1,Ten Golf
+http://mainxc.dyndns.org:8080/live/tonynew/tonynew/217.ts
+#EXTINF:-1,Satisfaction
+http://mainxc.dyndns.org:8080/live/tonynew/tonynew/387.ts
+#EXTINF:-1,Manhandle
+http://mainxc.dyndns.org:8080/live/tonynew/tonynew/386.ts
+#EXTINF:-1,latina
+http://mainxc.dyndns.org:8080/live/tonynew/tonynew/383.ts
+#EXTINF:-1,New Babes
+http://mainxc.dyndns.org:8080/live/tonynew/tonynew/384.ts
+#EXTINF:-1,tgirl2
+http://mainxc.dyndns.org:8080/live/tonynew/tonynew/385.ts
+#EXTINF:-1,TGirl
+http://mainxc.dyndns.org:8080/live/tonynew/tonynew/381.ts
+#EXTINF:-1,Teen
+http://mainxc.dyndns.org:8080/live/tonynew/tonynew/382.ts
+#EXTINF:-1,Big Boobs
+http://mainxc.dyndns.org:8080/live/tonynew/tonynew/380.ts
+#EXTINF:-1,Real
+http://mainxc.dyndns.org:8080/live/tonynew/tonynew/355.ts
+#EXTINF:-1,Prive
+http://mainxc.dyndns.org:8080/live/tonynew/tonynew/356.ts
+#EXTINF:-1,Pink
+http://mainxc.dyndns.org:8080/live/tonynew/tonynew/354.ts
+#EXTINF:-1,XXX Redlight
+http://mainxc.dyndns.org:8080/live/tonynew/tonynew/297.ts
+#EXTINF:-1,XXX Prive
+http://mainxc.dyndns.org:8080/live/tonynew/tonynew/296.ts
+#EXTINF:-1,XXX Pasion
+http://mainxc.dyndns.org:8080/live/tonynew/tonynew/298.ts
+#EXTINF:-1,Playboy TV ES
+http://mainxc.dyndns.org:8080/live/tonynew/tonynew/234.ts
+#EXTINF:-1,Jasmin .TV
+http://mainxc.dyndns.org:8080/live/tonynew/tonynew/535.ts
+#EXTINF:-1,la 2
+http://mainxc.dyndns.org:8080/live/tonynew/tonynew/242.ts
+#EXTINF:-1,La 1
+http://mainxc.dyndns.org:8080/live/tonynew/tonynew/241.ts
+#EXTINF:-1,TNT ES
+http://mainxc.dyndns.org:8080/live/tonynew/tonynew/233.ts
+#EXTINF:-1,Fox Es
+http://mainxc.dyndns.org:8080/live/tonynew/tonynew/237.ts
+#EXTINF:-1,AXN White ES
+http://mainxc.dyndns.org:8080/live/tonynew/tonynew/496.ts
+#EXTINF:-1,A&E ES
+http://mainxc.dyndns.org:8080/live/tonynew/tonynew/509.ts
+#EXTINF:-1,Antena 3 ES
+http://mainxc.dyndns.org:8080/live/tonynew/tonynew/513.ts
+#EXTINF:-1,Baby TV ES
+http://mainxc.dyndns.org:8080/live/tonynew/tonynew/499.ts
+#EXTINF:-1,Paramount Channel ES
+http://mainxc.dyndns.org:8080/live/tonynew/tonynew/497.ts
+#EXTINF:-1,Nickelodeon ES
+http://mainxc.dyndns.org:8080/live/tonynew/tonynew/498.ts
+#EXTINF:-1,TCM ES
+http://mainxc.dyndns.org:8080/live/tonynew/tonynew/505.ts
+#EXTINF:-1,History Channel ES
+http://mainxc.dyndns.org:8080/live/tonynew/tonynew/494.ts
+#EXTINF:-1,Fox Life ES
+http://mainxc.dyndns.org:8080/live/tonynew/tonynew/512.ts
+#EXTINF:-1,Discovery ES
+http://mainxc.dyndns.org:8080/live/tonynew/tonynew/500.ts
+#EXTINF:-1,Comedy Central ES
+http://mainxc.dyndns.org:8080/live/tonynew/tonynew/495.ts
+#EXTINF:-1,C & I ES
+http://mainxc.dyndns.org:8080/live/tonynew/tonynew/511.ts
+#EXTINF:-1,Cosmo ES
+http://mainxc.dyndns.org:8080/live/tonynew/tonynew/507.ts
+#EXTINF:-1,Canal + Series
+http://mainxc.dyndns.org:8080/live/tonynew/tonynew/502.ts
+#EXTINF:-1,Sci-Fi ES
+http://mainxc.dyndns.org:8080/live/tonynew/tonynew/501.ts
+#EXTINF:-1,Energy
+http://mainxc.dyndns.org:8080/live/tonynew/tonynew/503.ts
+#EXTINF:-1,Hollywood
+http://mainxc.dyndns.org:8080/live/tonynew/tonynew/504.ts
+#EXTINF:-1,Cuattro
+http://mainxc.dyndns.org:8080/live/tonynew/tonynew/506.ts
+#EXTINF:-1,ITV2 HD
+http://mainxc.dyndns.org:8080/live/tonynew/tonynew/390.ts
+#EXTINF:-1,OSN Movies
+http://mainxc.dyndns.org:8080/live/tonynew/tonynew/271.ts
+#EXTINF:-1,OSN Box Office 2
+http://mainxc.dyndns.org:8080/live/tonynew/tonynew/273.ts
+#EXTINF:-1,OSN Box Office 1
+http://mainxc.dyndns.org:8080/live/tonynew/tonynew/272.ts
+#EXTINF:-1,BT2 HD
+http://mainxc.dyndns.org:8080/live/tonynew/tonynew/266.ts
+#EXTINF:-1,BT1 HD
+http://mainxc.dyndns.org:8080/live/tonynew/tonynew/265.ts
+#EXTINF:-1,BT Europe HD
+http://mainxc.dyndns.org:8080/live/tonynew/tonynew/267.ts
+#EXTINF:-1,War.Dogs.2016.BRRip.XviD.AC3-EVO
+http://mainxc.dyndns.org:8080/movie/tonynew/tonynew/447.mp4
+#EXTINF:-1,The.Perfect.Weapon.2016.BRRip.XviD.AC3-EVO
+http://mainxc.dyndns.org:8080/movie/tonynew/tonynew/446.mp4
+#EXTINF:-1,Stagecoach The Texas Jack Story.2016.HDRip.XviD.AC3-EVO
+http://mainxc.dyndns.org:8080/movie/tonynew/tonynew/445.mp4
+#EXTINF:-1,Money.2016.BRRip.XviD.AC3-EVO
+http://mainxc.dyndns.org:8080/movie/tonynew/tonynew/444.mp4
+#EXTINF:-1,Kubo.and.the.Two.Strings.2016.HDRip.XviD.AC3-EVO
+http://mainxc.dyndns.org:8080/movie/tonynew/tonynew/443.avi
+#EXTINF:-1,Bridget Jones Baby
+http://mainxc.dyndns.org:8080/movie/tonynew/tonynew/440.mp4
+#EXTINF:-1,Traders.2015.BRRip.XviD.AC3-EVO
+http://mainxc.dyndns.org:8080/movie/tonynew/tonynew/439.mp4
+#EXTINF:-1,The.Good.Neighbor.2016.HDRip.XviD.AC3-EVO
+http://mainxc.dyndns.org:8080/movie/tonynew/tonynew/438.mp4
+#EXTINF:-1,Star.Trek.Beyond.2016.HDRip.XviD.AC3-EVO
+http://mainxc.dyndns.org:8080/movie/tonynew/tonynew/437.mp4
+#EXTINF:-1,Sausage.Party.2016.BRRip.XviD.AC3-EVO
+http://mainxc.dyndns.org:8080/movie/tonynew/tonynew/436.mp4
+#EXTINF:-1,Now.You.See.Me.2.2016.V2.BRRip.XviD.AC3-EVO
+http://mainxc.dyndns.org:8080/movie/tonynew/tonynew/435.mp4
+#EXTINF:-1,Nine.Lives.2016.720p.WEBRip.x264.AAC-MRCROPPER
+http://mainxc.dyndns.org:8080/movie/tonynew/tonynew/434.mp4
+#EXTINF:-1,Miss.Peregrines.Home.For.Peculiar.Children.2016.HC.HDRip.XviD.AC3-EVO
+http://mainxc.dyndns.org:8080/movie/tonynew/tonynew/432.mp4
+#EXTINF:-1,Mike.And.Dave.Need.Wedding.Dates.2016.720p.WEB-DL.DD5.1.x264-BDP
+http://mainxc.dyndns.org:8080/movie/tonynew/tonynew/431.mp4
+#EXTINF:-1,Mechanic.Resurrection.2016.DVD-SCREENER.x264.AAC2.0-BOOP
+http://mainxc.dyndns.org:8080/movie/tonynew/tonynew/420.mp4
+#EXTINF:-1,Jason.Bourne.2016.HC.HDRip.XViD.AC3-ETRG
+http://mainxc.dyndns.org:8080/movie/tonynew/tonynew/430.mp4
+#EXTINF:-1,Independence.Day.Resurgence.2016.HC.HDRip.XviD.AC3-EVO
+http://mainxc.dyndns.org:8080/movie/tonynew/tonynew/429.mp4
+#EXTINF:-1,Imperium.2016.HDRip.XviD.AC3-EVO
+http://mainxc.dyndns.org:8080/movie/tonynew/tonynew/428.mp4
+#EXTINF:-1,Ice.Age.Collision.Course.2016.READNFO.HDRip.XviD.AC3-EVO
+http://mainxc.dyndns.org:8080/movie/tonynew/tonynew/427.mp4
+#EXTINF:-1,Hands.of.Stone.2016.BRRip.XviD.AC3-EVO
+http://mainxc.dyndns.org:8080/movie/tonynew/tonynew/426.mp4
+#EXTINF:-1,Ghostbusters.2016.HDRip.XviD.AC3-EVO
+http://mainxc.dyndns.org:8080/movie/tonynew/tonynew/425.mp4
+#EXTINF:-1,Friend.Request.2016.BDRip.XviD.AC3-EVO
+http://mainxc.dyndns.org:8080/movie/tonynew/tonynew/424.mp4
+#EXTINF:-1,Finding.Dory.2016.HDRip.XviD.AC3-EVO
+http://mainxc.dyndns.org:8080/movie/tonynew/tonynew/423.mp4
+#EXTINF:-1,Confirmation.2016.BRRip.XviD.AC3-EVO
+http://mainxc.dyndns.org:8080/movie/tonynew/tonynew/422.mp4
+#EXTINF:-1,Cell.2016.HDRip.XviD.AC3-EVO
+http://mainxc.dyndns.org:8080/movie/tonynew/tonynew/419.mp4
+#EXTINF:-1,Captain.America.Civil.War.2016.BDRip.X264-AMIABLE
+http://mainxc.dyndns.org:8080/movie/tonynew/tonynew/421.mp4
+#EXTINF:-1,Bastille.Day.2016.BRRip.XviD.AC3-EVO
+http://mainxc.dyndns.org:8080/movie/tonynew/tonynew/418.mp4
+#EXTINF:-1,Barney.Thomson.2015.BRRip.XviD.AC3-EVO
+http://mainxc.dyndns.org:8080/movie/tonynew/tonynew/417.mp4
+#EXTINF:-1,Barbershop.The.Next.Cut.2016.BRRip.XviD.AC3-EVO
+http://mainxc.dyndns.org:8080/movie/tonynew/tonynew/416.mp4
+#EXTINF:-1,Bad.Moms.2016.BRRip.XviD.AC3-EVO
+http://mainxc.dyndns.org:8080/movie/tonynew/tonynew/415.mp4
+#EXTINF:-1,Assassination.2016.DVDRIP.X264.AC3-ZEUS sample 
+http://mainxc.dyndns.org:8080/movie/tonynew/tonynew/414.mp4
+#EXTINF:-1,ARQ.2016.HDRip.XviD.AC3-EVO
+http://mainxc.dyndns.org:8080/movie/tonynew/tonynew/407.mp4
+#EXTINF:-1,Army.of.One.2016.BRRip.XviD.AC3-EVO
+http://mainxc.dyndns.org:8080/movie/tonynew/tonynew/413.mp4
+#EXTINF:-1,Anthropoid.2016.BRRip.XviD.AC3-EVO
+http://mainxc.dyndns.org:8080/movie/tonynew/tonynew/412.mp4
+#EXTINF:-1,Amityville.Terror.2016.HDRip.XviD.AC3-EVO
+http://mainxc.dyndns.org:8080/movie/tonynew/tonynew/411.mp4
+#EXTINF:-1,American.Dirtbags.2015.HDRip.XviD.AC3-EVO
+http://mainxc.dyndns.org:8080/movie/tonynew/tonynew/410.mp4
+#EXTINF:-1,American.Conjuring.2016.HDRip.XviD.AC3-EVO
+http://mainxc.dyndns.org:8080/movie/tonynew/tonynew/409.mp4
+#EXTINF:-1,American Romance.2016.HDRip.XviD.AC3-EVO
+http://mainxc.dyndns.org:8080/movie/tonynew/tonynew/408.mp4
+#EXTINF:-1,A.Hologram.for.the.King.2016.BRRip.XviD.AC3-EVO
+http://mainxc.dyndns.org:8080/movie/tonynew/tonynew/406.mp4
+#EXTINF:-1,13th.2016.720p.WEBRip.x264.AAC-[eSc]
+http://mainxc.dyndns.org:8080/movie/tonynew/tonynew/405.mp4
+#EXTINF:-1,The BFG
+http://mainxc.dyndns.org:8080/movie/tonynew/tonynew/389.avi
+#EXTINF:-1,Ghostbusters
+http://mainxc.dyndns.org:8080/movie/tonynew/tonynew/347.avi
+#EXTINF:-1,The Shallows
+http://mainxc.dyndns.org:8080/movie/tonynew/tonynew/339.avi
+#EXTINF:-1,The Phenom
+http://mainxc.dyndns.org:8080/movie/tonynew/tonynew/335.avi
+#EXTINF:-1,Suits.S04E15.Intent
+http://mainxc.dyndns.org:8080/movie/tonynew/tonynew/315.mp4
+#EXTINF:-1,Suits.S01E11.Rules.of.the.Game
+http://mainxc.dyndns.org:8080/movie/tonynew/tonynew/326.avi
+#EXTINF:-1,Suits.S01E10.Shelf.Life
+http://mainxc.dyndns.org:8080/movie/tonynew/tonynew/325.avi
+#EXTINF:-1,Suits.S01E09.Undefeated
+http://mainxc.dyndns.org:8080/movie/tonynew/tonynew/324.avi
+#EXTINF:-1,Suits.S01E08.Identity.Crisis
+http://mainxc.dyndns.org:8080/movie/tonynew/tonynew/323.avi
+#EXTINF:-1,Suits.S01E07.Play.the.Man
+http://mainxc.dyndns.org:8080/movie/tonynew/tonynew/322.avi
+#EXTINF:-1,Suits.S01E06.Tricks.of.the.Trade
+http://mainxc.dyndns.org:8080/movie/tonynew/tonynew/321.avi
+#EXTINF:-1,Suits.S01E05.Bail.Out
+http://mainxc.dyndns.org:8080/movie/tonynew/tonynew/320.avi
+#EXTINF:-1,Suits.S01E04.Dirty.Little.Secrets
+http://mainxc.dyndns.org:8080/movie/tonynew/tonynew/319.avi
+#EXTINF:-1,Suits.S01E03.Inside.Track
+http://mainxc.dyndns.org:8080/movie/tonynew/tonynew/318.avi
+#EXTINF:-1,Suits.S01E02.Errors.and.Omissions
+http://mainxc.dyndns.org:8080/movie/tonynew/tonynew/317.avi
+#EXTINF:-1,Suits.S01E01.Pilot
+http://mainxc.dyndns.org:8080/movie/tonynew/tonynew/316.avi
+#EXTINF:-1,Suits S01E12
+http://mainxc.dyndns.org:8080/movie/tonynew/tonynew/327.avi
+#EXTINF:-1,Skiptrace
+http://mainxc.dyndns.org:8080/movie/tonynew/tonynew/341.avi
+#EXTINF:-1,Our Kind of Traitor
+http://mainxc.dyndns.org:8080/movie/tonynew/tonynew/338.avi
+#EXTINF:-1,Kingsglaive
+http://mainxc.dyndns.org:8080/movie/tonynew/tonynew/337.mkv
+#EXTINF:-1,Kickboxer Vengeance
+http://mainxc.dyndns.org:8080/movie/tonynew/tonynew/340.avi
+#EXTINF:-1,Jason Bourne
+http://mainxc.dyndns.org:8080/movie/tonynew/tonynew/334.avi
+#EXTINF:-1,Interregation
+http://mainxc.dyndns.org:8080/movie/tonynew/tonynew/344.avi
+#EXTINF:-1,Friend Request
+http://mainxc.dyndns.org:8080/movie/tonynew/tonynew/343.avi
+#EXTINF:-1,Cafe Society
+http://mainxc.dyndns.org:8080/movie/tonynew/tonynew/342.avi
+#EXTINF:-1,Assassination 2016
+http://mainxc.dyndns.org:8080/movie/tonynew/tonynew/336.mkv
+#EXTINF:-1,Warcraft
+http://mainxc.dyndns.org:8080/movie/tonynew/tonynew/27.mkv
+#EXTINF:-1,Team America
+http://mainxc.dyndns.org:8080/movie/tonynew/tonynew/25.mkv
+#EXTINF:-1,Independence Day Resurgence
+http://mainxc.dyndns.org:8080/movie/tonynew/tonynew/122.avi
+#EXTINF:-1,Ice Age Collision Course
+http://mainxc.dyndns.org:8080/movie/tonynew/tonynew/270.avi
+#EXTINF:-1,Honeyglue.2016.HDRip.XviD.AC3-EVO
+http://mainxc.dyndns.org:8080/movie/tonynew/tonynew/7.mp4
+#EXTINF:-1,epl
+http://mainxc.dyndns.org:8080/movie/tonynew/tonynew/121.mp4
+#EXTINF:-1,Dads.Army.2016.BRRip.XviD.AC3-EVO
+http://mainxc.dyndns.org:8080/movie/tonynew/tonynew/6.mp4
+#EXTINF:-1,Central Intelligence
+http://mainxc.dyndns.org:8080/movie/tonynew/tonynew/26.avi
+#EXTINF:-1,Cell
+http://mainxc.dyndns.org:8080/movie/tonynew/tonynew/5.mp4
+#EXTINF:-1,Alone.in.Berlin
+http://mainxc.dyndns.org:8080/movie/tonynew/tonynew/536.mp4
+#EXTINF:-1,Hacksaw.Ridge
+http://mainxc.dyndns.org:8080/movie/tonynew/tonynew/538.mp4
+#EXTINF:-1,Fantastic Beasts and Where to Find Them
+http://mainxc.dyndns.org:8080/movie/tonynew/tonynew/537.mp4
+#EXTINF:-1,Fences 2016 DVDSCR x264 AC3 - SiNDK8
+http://mainxc.dyndns.org:8080/movie/tonynew/tonynew/514.avi
+#EXTINF:-1,La.La.Land
+http://mainxc.dyndns.org:8080/movie/tonynew/tonynew/539.mkv
+#EXTINF:-1,The.Girl.on.the.Train.2016.HDRip.XviD.AC3-EVO
+http://mainxc.dyndns.org:8080/movie/tonynew/tonynew/519.mp4
+#EXTINF:-1,The.Girl.With.All.The.Gifts.2016.HDRip.XVID.AC3.HQ.Hive-CM8
+http://mainxc.dyndns.org:8080/movie/tonynew/tonynew/518.mp4
+#EXTINF:-1,Doctor Strange
+http://mainxc.dyndns.org:8080/movie/tonynew/tonynew/540.mp4
+#EXTINF:-1,Jackie
+http://mainxc.dyndns.org:8080/movie/tonynew/tonynew/541.mp4
+#EXTINF:-1,Justice League Dark
+http://mainxc.dyndns.org:8080/movie/tonynew/tonynew/542.mp4
+#EXTINF:-1,Manchester By the Sea
+http://mainxc.dyndns.org:8080/movie/tonynew/tonynew/544.mp4
+#EXTINF:-1,Silence
+http://mainxc.dyndns.org:8080/movie/tonynew/tonynew/543.avi
+#EXTINF:-1,100 Streets
+http://mainxc.dyndns.org:8080/movie/tonynew/tonynew/547.avi
+#EXTINF:-1,American Pastoral
+http://mainxc.dyndns.org:8080/movie/tonynew/tonynew/545.mp4
+#EXTINF:-1,Billy Lynns Long Halftime Walk
+http://mainxc.dyndns.org:8080/movie/tonynew/tonynew/548.avi
+#EXTINF:-1,Live By Night
+http://mainxc.dyndns.org:8080/movie/tonynew/tonynew/549.avi
+#EXTINF:-1,Masterminds
+http://mainxc.dyndns.org:8080/movie/tonynew/tonynew/452.avi
+#EXTINF:-1,Miss Sloane
+http://mainxc.dyndns.org:8080/movie/tonynew/tonynew/546.mp4
+#EXTINF:-1,Miss Sloane 2016 720p Hc Hdrip X264 Ac3-evo
+http://mainxc.dyndns.org:8080/movie/tonynew/tonynew/550.mp4
+#EXTINF:-1,Moana
+http://mainxc.dyndns.org:8080/movie/tonynew/tonynew/551.avi
+#EXTINF:-1,sully
+http://mainxc.dyndns.org:8080/movie/tonynew/tonynew/451.avi
+#EXTINF:-1,Nat Geo HD
+http://mainxc.dyndns.org:8080/live/tonynew/tonynew/454.ts
+#EXTINF:-1,Channel 5 HD
+http://mainxc.dyndns.org:8080/live/tonynew/tonynew/453.ts
+#EXTINF:-1,Dave HD
+http://mainxc.dyndns.org:8080/live/tonynew/tonynew/450.ts
+#EXTINF:-1,Irish TV
+http://mainxc.dyndns.org:8080/live/tonynew/tonynew/449.ts
+#EXTINF:-1,E4 HD
+http://mainxc.dyndns.org:8080/live/tonynew/tonynew/448.ts
+#EXTINF:-1,Canal 7
+http://mainxc.dyndns.org:8080/live/tonynew/tonynew/391.ts
+#EXTINF:-1,Discovery HD
+http://mainxc.dyndns.org:8080/live/tonynew/tonynew/442.ts
+#EXTINF:-1,TCM HD
+http://mainxc.dyndns.org:8080/live/tonynew/tonynew/441.ts
+#EXTINF:-1,WWE HD
+http://mainxc.dyndns.org:8080/live/tonynew/tonynew/404.ts
+#EXTINF:-1,HBO Signature
+http://mainxc.dyndns.org:8080/live/tonynew/tonynew/403.ts
+#EXTINF:-1,CNBC
+http://mainxc.dyndns.org:8080/live/tonynew/tonynew/402.ts
+#EXTINF:-1,Sky 1 HD
+http://mainxc.dyndns.org:8080/live/tonynew/tonynew/401.ts
+#EXTINF:-1,Sky Sports Mix
+http://mainxc.dyndns.org:8080/live/tonynew/tonynew/397.ts
+#EXTINF:-1,Spike USA
+http://mainxc.dyndns.org:8080/live/tonynew/tonynew/398.ts
+#EXTINF:-1,More 4 HD
+http://mainxc.dyndns.org:8080/live/tonynew/tonynew/399.ts
+#EXTINF:-1,FOX HD
+http://mainxc.dyndns.org:8080/live/tonynew/tonynew/400.ts
+#EXTINF:-1,NFL Now
+http://mainxc.dyndns.org:8080/live/tonynew/tonynew/396.ts
+#EXTINF:-1,Syfy HD
+http://mainxc.dyndns.org:8080/live/tonynew/tonynew/395.ts
+#EXTINF:-1,UTV HD
+http://mainxc.dyndns.org:8080/live/tonynew/tonynew/392.ts
+#EXTINF:-1,ITV BE HD
+http://mainxc.dyndns.org:8080/live/tonynew/tonynew/394.ts
+#EXTINF:-1,ITV 4 HD
+http://mainxc.dyndns.org:8080/live/tonynew/tonynew/393.ts
+#EXTINF:-1,RTE 2 HD
+http://mainxc.dyndns.org:8080/live/tonynew/tonynew/311.ts
+#EXTINF:-1,Living HD
+http://mainxc.dyndns.org:8080/live/tonynew/tonynew/295.ts
+#EXTINF:-1,Sky History HD
+http://mainxc.dyndns.org:8080/live/tonynew/tonynew/293.ts
+#EXTINF:-1,Sky Movies Sci-Fy HD
+http://mainxc.dyndns.org:8080/live/tonynew/tonynew/294.ts
+#EXTINF:-1,Film 4 HD
+http://mainxc.dyndns.org:8080/live/tonynew/tonynew/455.ts
+#EXTINF:-1,Skynet Sports 1
+http://mainxc.dyndns.org:8080/live/tonynew/tonynew/456.ts
+#EXTINF:-1,Skynet Sports 2
+http://mainxc.dyndns.org:8080/live/tonynew/tonynew/457.ts
+#EXTINF:-1,Skynet Sports 3
+http://mainxc.dyndns.org:8080/live/tonynew/tonynew/458.ts
+#EXTINF:-1,Skynet Sports 4
+http://mainxc.dyndns.org:8080/live/tonynew/tonynew/459.ts
+#EXTINF:-1,Skynet Sports 5
+http://mainxc.dyndns.org:8080/live/tonynew/tonynew/460.ts
+#EXTINF:-1,Skynet Sports 6
+http://mainxc.dyndns.org:8080/live/tonynew/tonynew/461.ts
+#EXTINF:-1,NFL Redzone
+http://mainxc.dyndns.org:8080/live/tonynew/tonynew/462.ts
+#EXTINF:-1,Eden HD
+http://mainxc.dyndns.org:8080/live/tonynew/tonynew/469.ts
+#EXTINF:-1,H2 HD
+http://mainxc.dyndns.org:8080/live/tonynew/tonynew/471.ts
+#EXTINF:-1,LFC HD
+http://mainxc.dyndns.org:8080/live/tonynew/tonynew/470.ts
+#EXTINF:-1,Sky Movies Comedy HD
+http://mainxc.dyndns.org:8080/live/tonynew/tonynew/465.ts
+#EXTINF:-1,Sky Movies Disney HD
+http://mainxc.dyndns.org:8080/live/tonynew/tonynew/466.ts
+#EXTINF:-1,Sky Movies Family HD
+http://mainxc.dyndns.org:8080/live/tonynew/tonynew/468.ts
+#EXTINF:-1,Sky Movies Premier HD
+http://mainxc.dyndns.org:8080/live/tonynew/tonynew/463.ts
+#EXTINF:-1,Sky Movies Thriller HD
+http://mainxc.dyndns.org:8080/live/tonynew/tonynew/467.ts
+#EXTINF:-1,Sky Cinema Select HD
+http://mainxc.dyndns.org:8080/live/tonynew/tonynew/473.ts
+#EXTINF:-1,Sky Movies Drama HD
+http://mainxc.dyndns.org:8080/live/tonynew/tonynew/472.ts
+#EXTINF:-1,Sky Movies Modern Greats HD
+http://mainxc.dyndns.org:8080/live/tonynew/tonynew/474.ts
+#EXTINF:-1,Comedy Central HD
+http://mainxc.dyndns.org:8080/live/tonynew/tonynew/475.ts
+#EXTINF:-1,Universal HD
+http://mainxc.dyndns.org:8080/live/tonynew/tonynew/476.ts
+#EXTINF:-1,W HD
+http://mainxc.dyndns.org:8080/live/tonynew/tonynew/477.ts
+#EXTINF:-1,Bike
+http://mainxc.dyndns.org:8080/live/tonynew/tonynew/478.ts
