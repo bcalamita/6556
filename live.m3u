@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1,--------6556 IPTV Daily List------------
-http://whatever.tx
+http://whatever.ts
 #EXTINF:-1,BBC One London
 http://mainxc.dyndns.org:8080/live/tonynew/tonynew/1.ts
 #EXTINF:-1,BBC Two
